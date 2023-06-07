@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0febfc2c.css",
+    "main.js": "./static/js/main.59aa2ece.js",
+    "static/media/profileBg.gif": "./static/media/profileBg.6f121778a754cb758340.gif",
+    "static/media/japan.jpg": "./static/media/japan.d0db880e3be11b0af6f8.jpg",
+    "static/media/eletronics.jpg": "./static/media/eletronics.2de88be4831a78ca926a.jpg",
+    "static/media/encora.png": "./static/media/encora.7ed3b12bd964b91b2c20.png",
+    "static/media/Jefferson William dos Santos-pt.pdf": "./static/media/Jefferson William dos Santos-pt.7615f6705a65496ada6a.pdf",
+    "static/media/Jefferson William dos Santos-en.pdf": "./static/media/Jefferson William dos Santos-en.cdf2c97733ae09a3affc.pdf",
+    "static/media/coffee.jpg": "./static/media/coffee.ab6d87e72f5ceae88f68.jpg",
+    "static/media/shine.png": "./static/media/shine.ecfaf627c18d4ff8b4c2.png",
+    "static/media/games.jpg": "./static/media/games.749bfe6fa5b12fd41ff5.jpg",
+    "static/media/anime.jpg": "./static/media/anime.3b1235b3a5794e29d744.jpg",
+    "static/media/profile.jpg": "./static/media/profile.279f7fbf5afa0da700e3.jpg",
+    "static/media/bodybuilding.jpg": "./static/media/bodybuilding.e9e8814b009c98535996.jpg",
+    "static/media/brazil.png": "./static/media/brazil.f51550e57acaffe7be40.png",
+    "static/media/campinas.png": "./static/media/campinas.804595637754535e1673.png",
+    "static/media/iot.jpg": "./static/media/iot.6e5b1be974aa6543d058.jpg",
+    "static/media/physics.jpg": "./static/media/physics.412ee5376e86f90cfa70.jpg",
+    "static/media/woorwork.jpg": "./static/media/woorwork.d0104058b5c21ad69864.jpg",
+    "static/media/monster.webp": "./static/media/monster.1cf1497f190089624d5c.webp",
+    "static/media/badge.png": "./static/media/badge.0ee13dd4062908486363.png",
+    "static/media/loadingBarBg.gif": "./static/media/loadingBarBg.d794a3532985f17b3d90.gif",
+    "index.html": "./index.html",
+    "main.0febfc2c.css.map": "./static/css/main.0febfc2c.css.map",
+    "main.59aa2ece.js.map": "./static/js/main.59aa2ece.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0febfc2c.css",
+    "static/js/main.59aa2ece.js"
+  ]
+}
