@@ -5,6 +5,6 @@ The built asset from [github.com/xjeeh/xjeeh.com.br](https://github.com/xjeeh/xj
 
 ## Publishe on
 
-- [xjeeh.github.io](xjeeh.github.io)
-- [xjeeh.com](xjeeh.com)
-- [xjeeh.com.br](xjeeh.com.br)
+- [xjeeh.github.io](https://xjeeh.github.io)
+- [xjeeh.com](https://xjeeh.com)
+- [xjeeh.com.br](https://xjeeh.com.br)
